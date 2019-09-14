@@ -1,5 +1,5 @@
 # UASmachine
-## First ever field high-throughput phenotyping simulation tool.
+## First ever field high-throughput phenotyping simulation tool
 
 This algorithm uses the open source software Blender<sup>TM</sup> (https://www.blender.org) to generate <i>in silico</i> 3D experiments. It is mainly focused on simulating field experiments and capturing UAS-like data.
 
