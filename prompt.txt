@@ -1,0 +1,2 @@
+cd C:\Program Files\Blender Foundation\Blender
+blender.exe -b -P E:\ggalli\python\UAVmachine\GIT\main.py
