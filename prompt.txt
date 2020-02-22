@@ -1,2 +1,0 @@
-cd C:\Program Files\Blender Foundation\Blender
-blender.exe -b -P F:\analysis\UAVMachine\main.py
