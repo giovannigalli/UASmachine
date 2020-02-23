@@ -5,12 +5,14 @@ This algorithm uses the open source software Blender<sup>TM</sup> (https://www.b
 
 This research creates the possibility of testing new methods and experimental setups before field testing, which may lead to significant experimentation savings.
 
-The algorithms are part of the original manuscript entitled "" under consideration in ... .
+The algorithm has been developed under Blender 2.79b API which can be downloaded at https://www.blender.org/download/releases/2-79/
+
+This work is part of the original research reported on the manuscript entitled "A novel way to validate UAS-based high-throughput phenotyping protocols using in silico experiments for plant breeding purposes".
 
 ## Acknowledgments
 
-I would like to thank people from [Allogamous Plant Breeding Laboratory Team](http://www.genetica.esalq.usp.br/alogamas/index2.html) for helping 
-in this project. 
+I would like to thank people from the Allogamous Plant Breeding Laboratory Team for helping 
+in this project.
 
 ## Authors
 
